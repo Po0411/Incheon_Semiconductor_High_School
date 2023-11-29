@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _02_HelloWorld
+namespace _03_Data
 {
     /* https://whgkfkd.tistory.com/77 */ // 출력 강의 사이트
     class Program
@@ -30,6 +30,11 @@ namespace _02_HelloWorld
             int num = a;
 
             Console.WriteLine("문자: {0}, 아스키코드값: {1}, 문자로 캐스트 연산: {2}", a, num, (char)num);
+
+            const int MAX = 100; //상수
+            const int MIN = 0;
+
+            Console.WriteLine("MIN:{0}  ~ MAX:{1}", MIN, MAX);
 
             Console.ReadKey();
         }
