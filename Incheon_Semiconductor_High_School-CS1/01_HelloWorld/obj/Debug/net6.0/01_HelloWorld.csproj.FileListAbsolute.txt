@@ -1,0 +1,14 @@
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\bin\Debug\net6.0\01_HelloWorld.exe
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\bin\Debug\net6.0\01_HelloWorld.deps.json
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\bin\Debug\net6.0\01_HelloWorld.runtimeconfig.json
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\bin\Debug\net6.0\01_HelloWorld.dll
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\bin\Debug\net6.0\01_HelloWorld.pdb
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.AssemblyInfo.cs
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.dll
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\obj\Debug\net6.0\refint\01_HelloWorld.dll
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.pdb
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.genruntimeconfig.cache
+C:\Users\wawa1\Documents\GitHub\Incheon_Semiconductor_High_School\Incheon_Semiconductor_High_School-CS1\01_HelloWorld\obj\Debug\net6.0\ref\01_HelloWorld.dll
