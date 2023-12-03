@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wawa1\\Documents\\GitHub\\Incheon_Semiconductor_High_School\\Incheon_Semiconductor_High_School-CS1\\03_Data\\03_Data.csproj",
+      "projectUniqueName": "C:\\Users\\wawa1\\OneDrive\\문서\\GitHub\\Incheon_Semiconductor_High_School\\Incheon_Semiconductor_High_School-CS1\\03_Data\\03_Data.csproj",
       "projectName": "03_Data",
-      "projectPath": "C:\\Users\\wawa1\\Documents\\GitHub\\Incheon_Semiconductor_High_School\\Incheon_Semiconductor_High_School-CS1\\03_Data\\03_Data.csproj",
+      "projectPath": "C:\\Users\\wawa1\\OneDrive\\문서\\GitHub\\Incheon_Semiconductor_High_School\\Incheon_Semiconductor_High_School-CS1\\03_Data\\03_Data.csproj",
       "packagesPath": "C:\\Users\\wawa1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wawa1\\Documents\\GitHub\\Incheon_Semiconductor_High_School\\Incheon_Semiconductor_High_School-CS1\\03_Data\\obj\\",
+      "outputPath": "C:\\Users\\wawa1\\OneDrive\\문서\\GitHub\\Incheon_Semiconductor_High_School\\Incheon_Semiconductor_High_School-CS1\\03_Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wawa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
